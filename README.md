@@ -1,7 +1,7 @@
 
 # Clone the repo, build the project, and run it locally using Docker.
 
-git clone 
+git clone https://github.com/smithDevIan/books_sample.git
 
 docker build -t book-app .
 
